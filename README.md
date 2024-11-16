@@ -25,9 +25,3 @@ Data Visualization: Matplotlib, Seaborn, Tableau/Power BI
 Geospatial Mapping: Folium, Geopandas
 
 Machine Learning: Scikit-learn (for predictive modeling)
-
-Objectives
-
-Provide actionable insights to Airbnb hosts on how to optimize pricing based on location and room type.
-Offer recommendations for potential guests regarding the best areas to book in terms of cost and convenience.
-Present findings through interactive visualizations for easier interpretation of data.
